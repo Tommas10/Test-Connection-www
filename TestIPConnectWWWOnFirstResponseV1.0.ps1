@@ -1,4 +1,4 @@
-﻿#This is small PowerSheel script to Test-Connection "www" On first response.
+﻿#This is small PowerSheel script to Test-Connection "www" on first response.
 #Under Microsoft Windows 10.
 #Created by Tommas Huang 
 #Created date: 2019-08-01
@@ -13,4 +13,4 @@ for($i = 0; $i -lt 4; $i++){
         break
     }
 }
-##You can test 4 pings with -Count 1 and break the loop when ping is ok.
+#You can test 4 pings with -Count 1 and break the loop when ping is ok.
